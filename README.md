@@ -1,0 +1,1 @@
+# files in the repository "Python-Data-Analysis" are inspired from Daniel Chan Scipy 2017 Tutorial. This repository describes the basic commands you need to know for data analysis. Once you are done with all the lectures, you can download any dataset from kaggle and practice cleaning it. so that it can be used for further applications.
